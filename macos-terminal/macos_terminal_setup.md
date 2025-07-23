@@ -2,15 +2,15 @@
 
 ## [iTerm2](https://iterm2.com/)
 
-Use `GruvBoxDarkHard` color preset.
+Use `catppuccin - mocha` color preset.
 
-Font size: `14/16`.
+Font size: `20`.
 
-## [GruvBoxDarkHard color scheme for iTerm2](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/master/schemes/GruvboxDarkHard.itermcolors)
+## [catppuccin color scheme for iTerm2](https://github.com/catppuccin/iterm)
 
 Download into folder `~/essential-scripts`.
 
-## [Hack Nerd Font](https://www.nerdfonts.com/font-downloads)
+## [Terminess Nerd Font](https://www.nerdfonts.com/font-downloads)
 
 Use Mono fonts.
 
